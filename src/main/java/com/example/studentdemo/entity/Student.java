@@ -42,10 +42,8 @@ public class Student {
 		this.address = address;
 	}
 
-	// ✅ Constructors
 
 	public Student() {
-		// Default constructor
 	}
 
 	public Student(Integer id, String name, String address) {
