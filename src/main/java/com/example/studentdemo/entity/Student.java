@@ -43,8 +43,6 @@ public class Student {
 	}
 
 
-	public Student() {
-	}
 
 	public Student(Integer id, String name, String address) {
 		this.id = id;
